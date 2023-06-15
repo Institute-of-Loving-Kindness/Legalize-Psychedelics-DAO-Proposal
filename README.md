@@ -1,12 +1,9 @@
 # Legalize-Psychedelics-DAO-Proposal
-The Legalize Psychedelic Medicine DAO is a grassroots organization committed to promoting access to safe and effective psychedelic medicines for therapeutic purposes.
 
-
-### 
-[Legalize Psychedelic Medicine](https://legalize.network/)
-[@legalizepsychedelicmedicine](https://www.instagram.com/legalizepsychedelicmedicine/)
-CEO - [Matthew Weintrub](https://www.linkedin.com/in/matthewweintrub/)
-Dallas, TX
+#### [Legalize Psychedelic Medicine](https://legalize.network/)
+#### [@legalizepsychedelicmedicine](https://www.instagram.com/legalizepsychedelicmedicine/)
+#### CEO - [Matthew Weintrub](https://www.linkedin.com/in/matthewweintrub/)
+#### Dallas, TX
 
 # Subject: Grant Proposal for Legalize Psychedelic Medicine DAO
 
