@@ -33,7 +33,8 @@ b) Advocate for the inclusion of psychedelics in evidence-based treatment protoc
 c) Mobilize grassroots support to push for the passage of the Heal America Act.
 d) Expand sister organizations into other western democracies to advocate for the same policy reform
 d) Collaborate with researchers, clinicians, and regulatory bodies to develop guidelines and best practices for psychedelic therapy.
-4. Proposed Activities:
+
+### 4. Proposed Activities:
 To achieve our objectives, we have designed a multifaceted approach that includes:
 
 a) Educational Campaigns: We will develop informative materials, organize public lectures, and host webinars to educate key stakeholders about the scientific evidence supporting psychedelic medicine and its potential to alleviate the mental health crisis.
@@ -44,7 +45,7 @@ c) Grassroots Mobilization: We will establish a network of volunteers and activi
 
 d) Collaboration and Research: We will partner with researchers, clinicians, and regulatory bodies to develop evidence-based guidelines and best practices for psychedelic therapy. This collaboration will ensure the safe and responsible integration of psychedelics into mainstream healthcare.
 
-### 4. Budget & Roadmap
+### 5. Budget & Roadmap
 
 #### Phase 1: Launch Organization & Prepare for NFT Launch 
 
@@ -57,11 +58,9 @@ Website Development**
 - Incorporate a 501(c)(3) and a 501(c)(4) organization 
 - Merchandise Development
 
-<br>
 #### Phase 2: NFT Launch 
 With this funding we plan to launch a NFT collection to raise > $500,000 dollars to fund operations for the organization. At that time we will request follow-on funding for marketing the project of 10Eth. 
 
- <br>
 #### Phase 3: Post-Mind Budget Allocation 
 
 In an ideal scenario we would raise $600,000 to fund year 1 of the organization. Here is a detailed breakdown of the budget.
@@ -74,7 +73,7 @@ In an ideal scenario we would raise $600,000 to fund year 1 of the organization.
 - Collaboration and Research: $80,000
 - Administrative and Operational Costs: $150,000
 
-### 5. Is this a Public Good?
+### 6. Is this a Public Good?
 
 Hell yes. The Legalize Psychedelic Medicine DAO is a public good because it serves the broader interests and well-being of society as a whole. Here are several ways in which the DAO contributes to the public good:
 
@@ -84,7 +83,7 @@ Hell yes. The Legalize Psychedelic Medicine DAO is a public good because it serv
 4) Economic Benefits: Legalizing psychedelic medicine creates economic opportunities through regulated industries, generating jobs and contributing to local and national economies.
 5) Public Health and Harm Reduction: The DAO supports the integration of psychedelic therapy within healthcare systems, promoting public health and harm reduction strategies for safer use.
 
-### 6. Is this Legal to fund?
+### 7. Is this Legal to fund?
 
 Yes. By creating a 501(c)(3) organization that can raise unlimited funds for this cause the organization can then lend said fund to the 501(c)(4) for operations. Unlike grant funds, a 501(c)(4) may use a 501(c)(3) loan for general support or fundraising and its use does not count against the 501(c)(3)'s lobbying limits.
  
