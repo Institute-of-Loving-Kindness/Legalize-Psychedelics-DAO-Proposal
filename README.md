@@ -13,8 +13,7 @@ I’m Matthew Weintrub. I am one of the leaders of the Psychedelic Movement in t
 
 I am writing to submit a grant proposal on behalf of the Legalize Psychedelic Medicine DAO. We are seeking funding to support our organization's efforts in gaining support for the [Heal America Act](https://healamerica.xyz/), which aims to enact Federal policy change around psychedelics in order to address and end the mental health crisis plaguing our nation.
 
-![Legalize DAO logo](Legalize_logo@.5x.svg "Title")<br>
-
+![Heal America Preview](IMG_6052.jpeg "Title")<br>
 
 ### 1. Executive Summary:
 The Legalize Psychedelic Medicine DAO is a grassroots organization committed to promoting access to safe and effective psychedelic medicines for therapeutic purposes. We firmly believe that a paradigm shift in mental health treatment is long overdue, and that psychedelics hold significant promise as a groundbreaking tool for healing and transformation.
@@ -87,3 +86,6 @@ Public Health and Harm Reduction: The DAO supports the integration of psychedeli
 ### 6. Is this Legal to fund?
 
 Yes. By creating a 501(c)(3) organization that can raise unlimited funds for this cause the organization can then lend said fund to the 501(c)(4) for operations. Unlike grant funds, a 501(c)(4) may use a 501(c)(3) loan for general support or fundraising and its use does not count against the 501(c)(3)'s lobbying limits.
+ 
+ ![Legalize DAO logo](Legalize_logo@.5x.svg "Title")<br>
+
