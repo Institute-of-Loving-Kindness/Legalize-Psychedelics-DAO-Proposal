@@ -1,6 +1,6 @@
 # Legalize-Psychedelics-DAO-Proposal
 
-#### [Legalize Psychedelic Medicine](https://legalize.network/)
+[Legalize Psychedelic Medicine](https://legalize.network/) <br>
 #### [@legalizepsychedelicmedicine](https://www.instagram.com/legalizepsychedelicmedicine/)
 #### CEO - [Matthew Weintrub](https://www.linkedin.com/in/matthewweintrub/)
 #### Dallas, TX
