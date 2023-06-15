@@ -77,11 +77,11 @@ Administrative and Operational Costs: $150,000
 
 Hell yes. The Legalize Psychedelic Medicine DAO is a public good because it serves the broader interests and well-being of society as a whole. Here are several ways in which the DAO contributes to the public good:
 
-Mental Health Crisis: The DAO addresses the widespread mental health crisis by advocating for the legalization of psychedelic medicine, providing innovative and effective solutions to improve mental health outcomes.
-Evidence-Based Medicine: The DAO promotes evidence-based practices and policies for the responsible use of psychedelics in therapy, collaborating with experts to develop guidelines and best practices.
-Social Justice and Equity: The DAO advocates for policy reform to address the unjust criminalization and stigmatization of psychedelics, striving for equitable access to therapy for all individuals.
-Economic Benefits: Legalizing psychedelic medicine creates economic opportunities through regulated industries, generating jobs and contributing to local and national economies.
-Public Health and Harm Reduction: The DAO supports the integration of psychedelic therapy within healthcare systems, promoting public health and harm reduction strategies for safer use.
+1) Mental Health Crisis: The DAO addresses the widespread mental health crisis by advocating for the legalization of psychedelic medicine, providing innovative and effective solutions to improve mental health outcomes.
+2) Evidence-Based Medicine: The DAO promotes evidence-based practices and policies for the responsible use of psychedelics in therapy, collaborating with experts to develop guidelines and best practices.
+3)Social Justice and Equity: The DAO advocates for policy reform to address the unjust criminalization and stigmatization of psychedelics, striving for equitable access to therapy for all individuals.
+4)Economic Benefits: Legalizing psychedelic medicine creates economic opportunities through regulated industries, generating jobs and contributing to local and national economies.
+5)Public Health and Harm Reduction: The DAO supports the integration of psychedelic therapy within healthcare systems, promoting public health and harm reduction strategies for safer use.
 
 ### 6. Is this Legal to fund?
 
