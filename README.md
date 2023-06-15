@@ -51,8 +51,7 @@ d) Collaboration and Research: We will partner with researchers, clinicians, and
 
 #### Phase 1: Prepare for NFT Launch 
 
-Website Development**
-
+- Website Development
 - NFT Contract Development
 -- We plan to fork the Nouns DAO contract so that when we launch out mint anyone can mint X # of NFTs at any time. We plan to integrate CC payments with crossmint.io to onboard normies.
 - NFT Art Contact
