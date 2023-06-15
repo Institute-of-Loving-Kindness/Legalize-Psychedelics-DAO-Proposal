@@ -47,7 +47,7 @@ d) Collaboration and Research: We will partner with researchers, clinicians, and
 
 ### 5. Budget & Roadmap
 
-**We are requesting a grant of 5.5ETH to support our activities over the course of 90 days. The budget will be allocated as follows:
+**We are requesting a grant of 5.5ETH to support our activities over the course of 90 days. The budget will be allocated as follows:**
 
 #### Phase 1: Prepare for NFT Launch 
 
