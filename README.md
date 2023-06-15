@@ -1,6 +1,5 @@
 # Legalize-Psychedelics-DAO-Proposal
 
-![Legalize DAO logo](Legalize_logo@.5x.svg "Title")<br>
 [Legalize Psychedelic Medicine](https://legalize.network/) <br>
 [@legalizepsychedelicmedicine](https://www.instagram.com/legalizepsychedelicmedicine/)  <br>
 CEO - [Matthew Weintrub](https://www.linkedin.com/in/matthewweintrub/)  <br>
@@ -10,9 +9,12 @@ Dallas, TX  <br>
 
 Dear Public Nouns,
 
-I’m Matthew Weintrub. I am one of the leaders of the Psychedelic Movement in the United States. I have helped enact policy change at the state and federal level. Please see previous press articles, wins and partners at [Legalize Network](https://legalize.network/). 
+I’m Matthew Weintrub. I am one of the leaders of the Psychedelic Movement in the United States. I have helped enact policy change at the state and federal level. Please see previous press articles, wins and partner orgs at [Legalize Network](https://legalize.network/).
 
 I am writing to submit a grant proposal on behalf of the Legalize Psychedelic Medicine DAO. We are seeking funding to support our organization's efforts in gaining support for the [Heal America Act](https://healamerica.xyz/), which aims to enact Federal policy change around psychedelics in order to address and end the mental health crisis plaguing our nation.
+
+![Legalize DAO logo](Legalize_logo@.5x.svg "Title")<br>
+
 
 ### 1. Executive Summary:
 The Legalize Psychedelic Medicine DAO is a grassroots organization committed to promoting access to safe and effective psychedelic medicines for therapeutic purposes. We firmly believe that a paradigm shift in mental health treatment is long overdue, and that psychedelics hold significant promise as a groundbreaking tool for healing and transformation.
