@@ -13,8 +13,6 @@ I’m Matthew Weintrub. I am one of the leaders of the Psychedelic Movement in t
 
 I am writing to submit a grant proposal on behalf of the Legalize Psychedelic Medicine DAO. We are seeking funding to support our organization's efforts in gaining support for the [Heal America Act](https://healamerica.xyz/), which aims to enact Federal policy change around psychedelics in order to address and end the mental health crisis plaguing our nation.
 
-![Heal America Preview](IMG_6052.jpeg "Title")<br>
-
 ### 1. Executive Summary:
 The Legalize Psychedelic Medicine DAO is a grassroots organization committed to promoting access to safe and effective psychedelic medicines for therapeutic purposes. We firmly believe that a paradigm shift in mental health treatment is long overdue, and that psychedelics hold significant promise as a groundbreaking tool for healing and transformation.
 
