@@ -1,6 +1,9 @@
 # Legalize-Psychedelics-DAO-Proposal
 
 ![Legalize DAO logo](legalize-psychedelics-logo.png "Title")<br>
+
+<img src="legalize-psychedelics-logo.png" alt= “Legalize DAO logo” width="100px" height="auto">
+
 [Legalize Psychedelic Medicine](https://legalize.network/) <br>
 [@legalizepsychedelicmedicine](https://www.instagram.com/legalizepsychedelicmedicine/)  <br>
 CEO - [Matthew Weintrub](https://www.linkedin.com/in/matthewweintrub/)  <br>
