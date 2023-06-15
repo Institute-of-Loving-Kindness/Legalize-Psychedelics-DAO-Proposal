@@ -47,9 +47,10 @@ d) Collaboration and Research: We will partner with researchers, clinicians, and
 
 ### 5. Budget & Roadmap
 
-#### Phase 1: Launch Organization & Prepare for NFT Launch 
-
 **We are requesting a grant of 5.5ETH to support our activities over the course of 90 days. The budget will be allocated as follows:
+
+#### Phase 1: Prepare for NFT Launch 
+
 Website Development**
 
 - NFT Contract Development
@@ -58,7 +59,7 @@ Website Development**
 - Incorporate a 501(c)(3) and a 501(c)(4) organization 
 - Merchandise Development
 
-#### Phase 2: NFT Launch 
+#### Phase 2: NFT Marketing  
 With this funding we plan to launch a NFT collection to raise > $500,000 dollars to fund operations for the organization. At that time we will request follow-on funding for marketing the project of 10Eth. 
 
 #### Phase 3: Post-Mind Budget Allocation 
