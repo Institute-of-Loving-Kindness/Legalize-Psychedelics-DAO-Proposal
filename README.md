@@ -23,6 +23,8 @@ The mental health crisis in the United States has reached alarming proportions. 
 
 Psychedelic-assisted therapy has shown remarkable potential in clinical trials and real-world settings. Studies have demonstrated significant improvements in treatment-resistant depression, PTSD, addiction, and end-of-life anxiety. However, outdated regulations and societal stigma hinder access to these transformative therapies, preventing millions from benefiting.
 
+See our [State of the Crisis](https://legalize.network/state-of-the-mental-health-crisis) statistics report. 
+
 ### 3. Objectives:
 The Legalize Psychedelic Medicine DAO aims to achieve the following objectives:
 
