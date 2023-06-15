@@ -48,15 +48,14 @@ d) Collaboration and Research: We will partner with researchers, clinicians, and
 
 <u> Phase 1: Launch Organization & Prepare for NFT Launch </u>
 
-We are requesting a grant of 5.5ETH to support our activities over the course of 90 days. The budget will be allocated as follows:
-Website Development
+**We are requesting a grant of 5.5ETH to support our activities over the course of 90 days. The budget will be allocated as follows:
+Website Development**
 
-NFT Contract Development
-We plan to fork the Nouns DAO contract so that when we launch out mint anyone can mint X # of NFTs at any time.
-We plan to integrate CC payments with crossmint.io to onboard normies.
-NFT Art Contact
-Incorporate a 501(c)(3) and a 501(c)(4) organization 
-Merchandise Development
+- NFT Contract Development
+-- We plan to fork the Nouns DAO contract so that when we launch out mint anyone can mint X # of NFTs at any time. We plan to integrate CC payments with crossmint.io to onboard normies.
+- NFT Art Contact
+- Incorporate a 501(c)(3) and a 501(c)(4) organization 
+- Merchandise Development
 
 <br>
 <u>Phase 2: NFT Launch 
@@ -64,14 +63,16 @@ With this funding we plan to launch a NFT collection to raise > $500,000 dollars
 
  <br>
 <u>Phase 3: Post-Mind Budget Allocation 
+
 In an ideal scenario we would raise $600,000 to fund year 1 of the organization. Here is a detailed breakdown of the budget.
-Retain Lobbyist & Policy Experts: $125,000
-Public Relations Campaign: $65,000
-Educational Campaigns: $25,000
-Advocacy and Lobbying: $55,000
-Grassroots Mobilization: $100,000
-Collaboration and Research: $80,000
-Administrative and Operational Costs: $150,000
+
+- Retain Lobbyist & Policy Experts: $125,000
+- Public Relations Campaign: $65,000
+- Educational Campaigns: $25,000
+- Advocacy and Lobbying: $55,000
+- Grassroots Mobilization: $100,000
+- Collaboration and Research: $80,000
+- Administrative and Operational Costs: $150,000
 
 ### 5. Is this a Public Good?
 
@@ -79,9 +80,9 @@ Hell yes. The Legalize Psychedelic Medicine DAO is a public good because it serv
 
 1) Mental Health Crisis: The DAO addresses the widespread mental health crisis by advocating for the legalization of psychedelic medicine, providing innovative and effective solutions to improve mental health outcomes.
 2) Evidence-Based Medicine: The DAO promotes evidence-based practices and policies for the responsible use of psychedelics in therapy, collaborating with experts to develop guidelines and best practices.
-3)Social Justice and Equity: The DAO advocates for policy reform to address the unjust criminalization and stigmatization of psychedelics, striving for equitable access to therapy for all individuals.
-4)Economic Benefits: Legalizing psychedelic medicine creates economic opportunities through regulated industries, generating jobs and contributing to local and national economies.
-5)Public Health and Harm Reduction: The DAO supports the integration of psychedelic therapy within healthcare systems, promoting public health and harm reduction strategies for safer use.
+3) Social Justice and Equity: The DAO advocates for policy reform to address the unjust criminalization and stigmatization of psychedelics, striving for equitable access to therapy for all individuals.
+4) Economic Benefits: Legalizing psychedelic medicine creates economic opportunities through regulated industries, generating jobs and contributing to local and national economies.
+5) Public Health and Harm Reduction: The DAO supports the integration of psychedelic therapy within healthcare systems, promoting public health and harm reduction strategies for safer use.
 
 ### 6. Is this Legal to fund?
 
